@@ -1,9 +1,10 @@
 Arduino-Theremin
 A simple, minimalistic Arduino-based piano-theremin.
 
+Demo Video: http://vimeo.com/user7569576/arduino-theremin
+
 Needs a SRF05 sensor with Echo connected to digital pin 2 and
 Trigger/Init connected to pin 3.
 
 Author: Michele Spagnuolo <michele [|at|] spagnuolo.me>
 Based on http://luckylarry.co.uk/arduino-projects/arduino-basic-theremin-meets-processing/
-
